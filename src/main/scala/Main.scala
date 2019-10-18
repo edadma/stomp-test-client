@@ -3,7 +3,7 @@ package xyz.hyperreal.stomp_test_client
 import typings.node.{nodeStrings, process}
 import typings.sockjsDashClient.sockjsDashClientMod
 import typings.stompjs.stompjsMod
-import typings.stompjs.stompjsMod.{Client, Frame, Message}
+import typings.stompjs.stompjsMod.Message
 
 import scala.scalajs.js
 
